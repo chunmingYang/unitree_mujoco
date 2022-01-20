@@ -9,5 +9,5 @@ Working Log, see [Docs](https://docs.google.com/document/d/13MPEeioKg0B8ffl0e8jV
 ###### Branch List Description
 - ctrl_00: Original MuJoCo files
 - ctrl_01: Simple simultaneous PD control of four legs
-- ctrl_02: Template with (hip/thigh/calf) position (x/y/z) sensors, which also save mjData
+- ctrl_02: Template with (hip/thigh/calf) position (x/y/z) sensors, which also save mjData doing trot gait
 
