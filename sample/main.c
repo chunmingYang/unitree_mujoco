@@ -607,7 +607,7 @@ void init_release()
     d->qpos[5] = quat[2];
     d->qpos[6] = quat[3];
     */
-    m->opt.gravity[2] = 0;
+    m->opt.gravity[2] = -9.8;
 }
 
 // main function
