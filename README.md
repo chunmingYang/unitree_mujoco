@@ -2,5 +2,5 @@
 Unitree A1 working with MuJoCo 2.0
 
 ###### Branch List Description
-- ctrl_01: Simple simultaneous PD control of four legs
+- ctrl_02: Template with (hip/thigh/calf) position (x/y/z) sensors, which also save mjData
 
