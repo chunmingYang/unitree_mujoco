@@ -2,5 +2,5 @@
 Unitree A1 working with MuJoCo 2.0
 
 ###### Branch List Description
-- ctrl_00: Simple simultaneous PD control of four legs
+- ctrl_00: Original MuJoCo files
 
