@@ -2,5 +2,5 @@
 Unitree A1 working with MuJoCo 2.0
 
 ###### Branch List Description
-- ctrl_00: Original MuJoCo files
+- ctrl_00: Original MuJoCo files (Keys should be downloaded additionally)
 
