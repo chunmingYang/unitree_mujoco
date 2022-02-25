@@ -16,7 +16,7 @@ Working Log, see [Docs](https://docs.google.com/document/d/13MPEeioKg0B8ffl0e8jV
 - ctrl_04: Template with shoulder, elbow, foot position (x/y/z) sensors\
 &emsp;&emsp;&emsp;&ensp; Save mjData\
 &emsp;&emsp;&emsp;&ensp; mocap and equality constraint fix the trunk\
-&emsp;&emsp;&emsp;&ensp; IK using jacobian approach\
-&emsp;&emsp;&emsp;&ensp; IK using Newton-Raphson method to solve FW equations\
-&emsp;&emsp;&emsp;&ensp; IK using analytic method to solve FW equations
+&emsp;&emsp;&emsp;&ensp; FR_IK using jacobian approach\
+&emsp;&emsp;&emsp;&ensp; FR_IK using Newton-Raphson method to solve FW equations\
+&emsp;&emsp;&emsp;&ensp; FR_IK using analytic method to solve FW equations
 
