@@ -2,8 +2,8 @@
 Unitree A1 working with MuJoCo 2.0
 
 ###### Branch List Description
-- ctrl_03: Template with shoulder, elbow, foot position (x/y/z) sensors
-           Save mjData
+- ctrl_03: Template with shoulder, elbow, foot position (x/y/z) sensors<br/>
+           Save mjData<br/>
            mocap and equality constraint fix the trunk
            
            
