@@ -5,5 +5,4 @@ Unitree A1 working with MuJoCo 2.0
 - ctrl_05: template with FR_shoulder, FR_foot position (x/y/z)\
 &emsp;&emsp;&emsp;&ensp; save mjData\
 &emsp;&emsp;&emsp;&ensp; mocap and equality constraint fix the trunk\
-&emsp;&emsp;&emsp;&ensp; FR_IK using sdroot()\
-&emsp;&emsp;&emsp;&ensp; FR_IK using nlopt optimizer
+&emsp;&emsp;&emsp;&ensp; FR_IK using sdroot()
