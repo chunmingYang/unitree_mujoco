@@ -6,4 +6,4 @@ Unitree A1 working with MuJoCo 2.0
 &emsp;&emsp;&emsp;&ensp; save mjData\
 &emsp;&emsp;&emsp;&ensp; mocap and equality constraint fix the trunk\
 &emsp;&emsp;&emsp;&ensp; analytical ik solver\
-&emsp;&emsp;&emsp;&ensp; march on spot state machine\
+&emsp;&emsp;&emsp;&ensp; march on spot state machine
